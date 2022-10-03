@@ -7,4 +7,8 @@ public class HelloIndia {
 		public void helloTest() {
 			System.out.println("Hello all");
 		}
+		@Test
+		public void helloAustralia() {
+			System.out.println("Hello");
+		}
 }
