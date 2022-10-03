@@ -7,4 +7,5 @@ public class AsitClassTest {
 	public void GreetingsTest() {
 		System.out.println("Good afternoon Tejas");
 	}
+	
 }
