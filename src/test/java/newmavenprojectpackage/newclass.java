@@ -9,6 +9,13 @@ public class newclass
 	{
 		System.out.println("i am tejas ");
 	}
+	public class newclass2 
+	{
+		@Test
+		public void test()
+		{
+			System.out.println("i am tejas tooo ");
+		}
 	}
-
+}
 
